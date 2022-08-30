@@ -10,6 +10,6 @@ My personal website for 102
 
 **Here's some bold text**
 
-*Here's some bold text*
+*Here's some italic text*
 
 More changes...here they are.
