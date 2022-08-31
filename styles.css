@@ -1,0 +1,14 @@
+/* selector {property: value;} */
+
+/* body {background-color: paleturquoise;} */
+
+body {
+    background-color: rgba(65, 105, 225, 0.63);
+    margin: 100px;
+    padding: 10px;
+    border: 3px dotted plum;
+}
+
+img {
+    width: 400px;
+}
