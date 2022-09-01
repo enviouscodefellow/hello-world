@@ -10,14 +10,23 @@ body {
   font-family: Verdana;
 }
 
-/* h1 {
-  float: left;
-} */
+h1 {
+  background-color: cornflowerblue;
+  /* margin: 20px; */
+  padding: 10px;
+  color: black;
+  font-family: Verdana;
+}
 
 header {
   background-color: cornflowerblue;
   /* margin: 20px; */
   padding: 10px;
+  color: hotpink;
+  font-family: monospace;
+  font-style: oblique;
+  font-size: larger;
+   
 }
 
 img {
